@@ -44,7 +44,7 @@ python3 iphunter.py
 -  CK WEBSITE  - ( https://whoer.net/ ) IP
 -    # SIM SETUP 🫠 #
 -  SIM SETTING ( ACCESS POINT )
--  SCROLL CK ( MMS Proxy ) - ( 127.0.0.1 ) 
+-  SCROLL CK ( Proxy ) - ( 127.0.0.1 ) 
 -  CK NEXT LINE ( PORT ) - ( 8118 ) 
 -  CK WEBSITE - ( https://whoer.net/ ) IP 
 ---
