@@ -36,13 +36,17 @@ python3 iphunter.py
 ```
 ---
 # নির্দেশনা 😳
-
--  ONLY WIFI CONTEACT 
--  CK WIFI PROXY ( MANUAL NOW ) 
--  CK TARMUX PROXY ( COPY ) 
--  SETUP WIFI ( PROXY & PORT ) 
--  CK WEBSITE  - ( https://whoer.net/ ) 
-
+-    # WIFI SETUP 🫠 #
+-  WIFI CONTEACT 
+-  CK WIFI PROXY ( MANUAL NOW )
+-  CK TARMUX PROXY ( COPY ) - ( 127.0.0.1 ) 
+-  SETUP WIFI ( PROXY & PORT ) - ( 8118 ) 
+-  CK WEBSITE  - ( https://whoer.net/ ) IP
+-    # SIM SETUP 🫠 #
+-  SIM SETTING ( ACCESS POINT )
+-  SCROLL CK ( MMS Proxy ) - ( 127.0.0.1 ) 
+-  CK NEXT LINE ( PORT ) - ( 8118 ) 
+-  CK WEBSITE - ( https://whoer.net/ ) IP 
 ---
 ## ✨ Features
 
